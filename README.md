@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Revenue Optimization Analysis
+# Sales Performance & Revenue Optimization Analysis
 
 ## Executive Summary
 
